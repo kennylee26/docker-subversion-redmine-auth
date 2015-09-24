@@ -2,7 +2,7 @@
 #
 # VERSION 0.0.1
 # Authoer: kennylee26
-# NAME: kennylee26/mysql
+# NAME: redmine/svn
 # Command format: Instruction [arguments command] ..
 
 # 第一行必须指定基于的基础镜像
